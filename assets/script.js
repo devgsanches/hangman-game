@@ -55,7 +55,6 @@ const fruits = [
   'araticum',
   'bacaba',
   'buriti',
-  'camu-camu',
   'jabuticaba',
   'uva',
   'mamoncillo',
