@@ -62,6 +62,16 @@ const fruits = [
   'marolo',
   'pitaya',
   'santol',
+  'maca',
+  'melao',
+  'mirtilo',
+  'pessego',
+  'cambuci',
+  'groselha',
+  'maracuja',
+  'durian',
+  'lichia',
+  'mangostao',
 ]
 
 const fruit = fruits[Math.floor(Math.random() * fruits.length)]
