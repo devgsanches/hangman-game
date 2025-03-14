@@ -100,8 +100,6 @@ function playAgain() {
   }
 }
 
-playAgain()
-
 pauseIcon.addEventListener('click', () => {
   modalRestart.classList.remove('hidden')
   document.body.style.overflow = 'hidden'
